@@ -1,0 +1,2 @@
+1.已创建项目环境：conda create -n DLkcat python=3.7.6 -y
+2.激活环境： (base) E:\DLKcat\DLKcat-1.0.0\DLKcat-1.0.0\DeeplearningApproach\Code\example>conda activate DLkcat
